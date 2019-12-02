@@ -5,4 +5,4 @@
 config/config.inc.php
 
 # uploads
-hackable/uploads/
+#hackable/uploads/
